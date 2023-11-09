@@ -1,0 +1,26 @@
+#contacto-title{
+    padding-top: 40px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.contacto-subtitle{
+    margin-bottom: 20px;
+}
+
+.contactoText {
+    margin-bottom: 10px;
+}
+
+.contacto-cont {
+    background-color: #E3CD80;
+    color: #1F332C;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+@media (min-width: 768px) {
+    #contacto-title{
+        padding-top: 40px;
+    }
+}

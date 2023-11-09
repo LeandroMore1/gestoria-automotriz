@@ -1,0 +1,67 @@
+.custom-carousel {
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.custom-carousel .carousel-inner {
+    height: 100%;
+}
+
+.custom-carousel .carousel-item {
+    height: 100%;
+}
+
+.custom-carousel img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.header-caption {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+
+.header-caption h1{
+    font-size: 28px;
+    font-family: 'Kanit';
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
+}
+
+.header-caption h2{
+    font-size: 21px;
+    font-family: 'Kanit';
+    text-shadow: 2px 2px 2px rgba(0, 0, 0,1);
+}
+
+@media (min-width: 768px) {
+    .header-caption {
+        top: 90%;
+    }
+    .header-caption h1{
+        font-size: 35px
+    }
+    
+    .header-caption h2{
+        font-size: 27px;
+    }
+}
+
+@media (min-width: 992px) {
+    .header-caption {
+        top: 88%;
+    }
+
+    .header-caption h1{
+        font-size: 45px
+    }
+    
+    .header-caption h2{
+        font-size: 35px;
+    }
+}
