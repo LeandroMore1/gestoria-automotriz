@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gestoria-automotriz/static/css/main.b67e08d5.css",
+    "main.js": "/gestoria-automotriz/static/js/main.97cecd93.js",
+    "index.html": "/gestoria-automotriz/index.html",
+    "main.b67e08d5.css.map": "/gestoria-automotriz/static/css/main.b67e08d5.css.map",
+    "main.97cecd93.js.map": "/gestoria-automotriz/static/js/main.97cecd93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b67e08d5.css",
+    "static/js/main.97cecd93.js"
+  ]
+}
