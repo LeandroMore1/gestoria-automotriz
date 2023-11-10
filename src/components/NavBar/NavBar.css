@@ -6,6 +6,7 @@
     left: 0;
     right: 0;
     z-index: 1; 
+
 }
 
 .navbar.visible{
@@ -19,7 +20,7 @@
     text-decoration: none;
     font-family: 'Kanit';
     color: white;
-    font-size: 27px;
+    font-size: 24px;
 }
 
 .navLink:hover{
