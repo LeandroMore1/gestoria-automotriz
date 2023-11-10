@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gestoria-automotriz/static/css/main.b67e08d5.css",
+    "main.css": "/gestoria-automotriz/static/css/main.cab6072c.css",
     "main.js": "/gestoria-automotriz/static/js/main.97cecd93.js",
     "index.html": "/gestoria-automotriz/index.html",
-    "main.b67e08d5.css.map": "/gestoria-automotriz/static/css/main.b67e08d5.css.map",
+    "main.cab6072c.css.map": "/gestoria-automotriz/static/css/main.cab6072c.css.map",
     "main.97cecd93.js.map": "/gestoria-automotriz/static/js/main.97cecd93.js.map"
   },
   "entrypoints": [
-    "static/css/main.b67e08d5.css",
+    "static/css/main.cab6072c.css",
     "static/js/main.97cecd93.js"
   ]
 }
