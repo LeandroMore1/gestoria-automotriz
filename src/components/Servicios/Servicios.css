@@ -1,26 +1,99 @@
-#servicios-title{
-    margin: 40px 0px 40px 0px;
+#servicios-title {
+    margin: 50px 0px 5px 0px;
     font-weight: 700;
+    font-size: 50px;
+    font-family: "Kanit";
+    color: #033E46
 }
 
-.lastCol{
-    margin-top: 30px;
+.servicios-subtitle {
+    text-align: center;
+    color: #055a5bec;
+    margin: 60px 0px 30px 0px;
+    font-weight: 200;
 }
+
+.firstSub{
+    margin-bottom: 30px;
+    text-align: center;
+    color: #055a5bcd;
+    font-weight: 200;
+}
+
+.contServicio{
+    gap:15px
+}
+
+.boton1 {
+    min-width: 130px;
+    height: 40px;
+    padding: 0px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    z-index: 0;
+    background: #fff;
+    overflow: hidden;
+    border: 2px solid #055A5B;
+    font-weight: 400;
+    color: #055A5B;
+}
+
+.underline{
+    /* width: 85px; */
+    width: 105px;
+    text-align: center;
+    height: 4px;
+    background-color: #033E46;
+    text-align: center;
+    margin-bottom: 60px;
+    /* animation: aparecer 2s forwards;
+    animation-direction: normal; */
+
+}
+/* @keyframes aparecer {
+    to {
+
+        width: 105px;
+    }
+} */
+.boton1:hover {
+    color: #fff;
+}
+
+.boton1:hover:after {
+    height: 100%;
+}
+
+.boton1:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    transition: all 0.3s ease;
+    left: 0;
+    top: 0;
+    height: 0;
+    width: 100%;
+    background: #055A5B;
+}
+
+
+
 
 @media (min-width: 768px) {
 
-    #servicios-title{
-        margin-top: 50px;
-        font-weight: 700;
-        color: #4B605A;
-    }
-    .servicios-cont{
+
+    .servicios-cont {
         margin-bottom: 80px;
-        color: #4B605A;
         font-size: 20px;
+        font-family: 'Kanit';
     }
-    
-.lastCol{
-    margin-top: 0px;
-}
+
+    .contServicio{
+        width: 600px;
+    }
 }

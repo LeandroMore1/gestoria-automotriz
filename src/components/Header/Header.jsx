@@ -18,7 +18,7 @@ export const Header = () => {
                 </Carousel.Item>
             </Carousel>
             <div className="header-caption">
-                <h1>Gestoria Automotriz</h1>
+                <h1>Gestoría Automotriz</h1>
                 <h2 id="header-subtitle">Mandataria Matriculada</h2>
             </div>
         </>

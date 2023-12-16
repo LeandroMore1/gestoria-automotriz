@@ -2,10 +2,13 @@
     padding-top: 40px;
     margin-bottom: 30px;
     font-weight: 700;
+    font-size: 50px;
+    font-family: 'kanit';
 }
 
 .contacto-subtitle{
     margin-bottom: 20px;
+    font-family: 'kanit';
 }
 
 .contactoText {
@@ -17,6 +20,7 @@
     color: #1F332C;
     margin-top: 40px;
     padding-bottom: 40px;
+    font-family: 'kanit';
 }
 
 @media (min-width: 768px) {

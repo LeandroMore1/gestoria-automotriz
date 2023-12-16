@@ -19,6 +19,7 @@
 .navLink{
     text-decoration: none;
     font-family: 'Kanit';
+    font-weight: 200;
     color: white;
     font-size: 24px;
 }
