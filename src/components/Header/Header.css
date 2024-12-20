@@ -58,6 +58,8 @@
     }
 }
 
+
+
 @media (min-width: 992px) {
     .header-caption {
         top: 88%;
@@ -70,4 +72,6 @@
     .header-caption h2{
         font-size: 35px;
     }
+
+
 }

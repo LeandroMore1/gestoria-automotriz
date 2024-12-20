@@ -17,6 +17,7 @@ export const Header = () => {
                     <img src="https://images.pexels.com/photos/16835226/pexels-photo-16835226/free-photo-of-carretera-paisaje-naturaleza-arena.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                 </Carousel.Item>
             </Carousel>
+            
             <div className="header-caption">
                 <h1>Gestoría Automotriz</h1>
                 <h2 id="header-subtitle">Mandataria Matriculada</h2>

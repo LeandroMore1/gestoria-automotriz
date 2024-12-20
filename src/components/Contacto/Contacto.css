@@ -6,6 +6,11 @@
     font-family: 'kanit';
 }
 
+.tel{
+    color: rgb(31, 51, 44);
+    text-decoration: none;
+}
+
 .contacto-subtitle{
     margin-bottom: 20px;
     font-family: 'kanit';
@@ -15,11 +20,15 @@
     margin-bottom: 10px;
 }
 
+.map{
+    margin-top: 50px;
+    height: 400px;
+}
+
 .contacto-cont {
     background-color: #E3CD80;
     color: #1F332C;
     margin-top: 40px;
-    padding-bottom: 40px;
     font-family: 'kanit';
 }
 

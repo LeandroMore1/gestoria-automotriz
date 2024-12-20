@@ -1,0 +1,52 @@
+
+
+.iconosText{
+    font-family: 'Kanit';
+    font-size: 12px;
+    color: #033E46
+}
+
+.icono{
+    height: 75px;
+    width: 75px;
+}
+
+.example{
+    width: 40%;
+    text-align: center;
+}
+
+.iconosContainer{
+
+    width: 100%;
+    align-items: center;
+    margin: 0 auto;  
+    margin-bottom: 120px;
+}
+
+.iconosTitle{
+    margin-top: 120px;
+    margin-bottom: 90px;
+    font-family: 'Kanit';
+        color: #033E46
+}
+
+@media (min-width: 768px) { 
+    .iconosText{
+        font-size: 25px;
+    }
+
+    .example{
+        width: 30%;
+        text-align: center;
+    }
+
+    .icono{
+        height: 120px;
+        width: 120px;
+    }
+
+    .iconosContainer{
+        width: 80%;
+    }
+}
